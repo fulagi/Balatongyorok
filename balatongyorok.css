@@ -1,0 +1,13 @@
+body{
+    background-image: url(back.jpg);
+}
+.keret{
+    width: 1000px;
+    margin: auto;
+}
+article{
+    width: 450px; 
+    float: left;
+    margin: auto;
+    background-color: #5b9cea;
+}
